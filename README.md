@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Maruful Islam Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/79731568097599.5b50bca477735.jpg">
 
 
 Computer Science Engineering student | Passionate about coding, tech, and problem-solving | Aspiring IT entrepreneur
